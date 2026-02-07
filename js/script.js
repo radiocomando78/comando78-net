@@ -79,7 +79,7 @@ getStreamingData();
 
 setInterval(function () {
   getStreamingData();
-}, 4000);
+}, 15000);
 
 
     var coverArt = document.getElementsByClassName('cover-album')[0];
